@@ -254,3 +254,10 @@ experience
 	font-size:  4rem;
 	color: #eb648c;
 }
+
+.activities-grid-item h1{
+	font-family: 'Aldrich', san-sarif;
+	font-size: 1.7rem;
+	text-transform: uppercase;
+	margin: 2rem 0;
+}
